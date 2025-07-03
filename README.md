@@ -23,10 +23,4 @@ MONGODB_URI=mongodb://localhost:27017/ProyectoBit
 
 4. Arranca el servidor con este comando:
 
-<<<<<<< HEAD
 node app.js
-
-
-=======
-node app.js
->>>>>>> desarrollo
