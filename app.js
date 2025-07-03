@@ -8,8 +8,8 @@ const app = express();
 
 app.use(cors());
 app.use(express.json());
-git
-app.get('/', (req, res) => {
+
+app.get('/', (_req, res) => {
   res.send('Servidor backend funcionando');
 });
 
